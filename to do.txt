@@ -2,11 +2,11 @@ a nav bar sec with				initial done (need style)
 	nav menu with
 	links in nav to sections
 
-hero banner section				initial done (nothign left comes to mind)
+hero banner section				initial done (need style)
 
-jumbotron sec with bio, name, pic
+jumbotron sec with bio, name, pic		initial done (need styling, add profile pic to right instead of underneath, make media queries for block on smal res
 
-work sec with 
+work sec with 					initial done (need styling)
 	grid with
 	pics on card with
 	link to project with
