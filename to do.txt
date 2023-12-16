@@ -1,8 +1,8 @@
-a nav bar sec with
+a nav bar sec with				initial done (need style)
 	nav menu with
 	links in nav to sections
 
-hero banner section
+hero banner section				initial done (nothign left comes to mind)
 
 jumbotron sec with bio, name, pic
 
