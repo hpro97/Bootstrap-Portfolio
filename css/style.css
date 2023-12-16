@@ -26,7 +26,7 @@
   }
 
   .contentContainer {
-    
+
   }
   .pageSection {
   
@@ -48,39 +48,9 @@
   }
 
   /* about me */
-  
-  #about {
-    display: grid;
-    grid-template-areas: 'description image';
-    grid-gap: 1em;
-  }
-  
-  #about h2 {
-  
-  }
-  
-  #about p {
-    
-  
-  }
-  
-  .about-text {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .portrait-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .portrait {
-    padding: 2%;
-    margin: 2%;
-    width: 14em ;
-    height: 20em;
+
+  .jumbotronSec {
+
   }
   
   /* portfolio */
