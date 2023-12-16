@@ -1,0 +1,31 @@
+a nav bar sec with
+	nav menu with
+	links in nav to sections
+
+hero banner section
+
+jumbotron sec with bio, name, pic
+
+work sec with 
+	grid with
+	pics on card with
+	link to project with
+	descripiton of each project
+
+skills section with
+	skills imma learn from bootcamp
+
+contact sec with
+	links with email, linkedin, git
+
+footer sec
+
+links all have hover effect
+buttons should display
+
+deployed
+loads
+giturl
+unique name
+readme with description, screenshot, link to deployed
+url of previously deployed portfolio
