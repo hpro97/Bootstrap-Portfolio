@@ -55,11 +55,19 @@
 
   /* about me */
 
+  #aboutMe {
+
+  }
+
   .jumbotronSec {
 
   }
   
   /* portfolio */
+
+  #portfolio {
+
+  }
   
   .portfolioSec {
 
@@ -67,12 +75,20 @@
 
   /* skills */
 
+  #skills {
+
+  }
+
   .skillsSec {
 
   }
 
 
   /* footer // contact */
+  
+  #contact {
+
+  }
   
   .contactSec {
 
