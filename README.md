@@ -13,9 +13,9 @@ i built this project to have a fully funcitonal place to display my front end co
 * [Screenshot](#Screenshot)
 
 ## Link:
-DEPLOYED: https://hpro97.github.io/Bootstrap-Portfolio/
-GIT REPO: https://github.com/hpro97/Bootstrap-Portfolio
-PREVIOUS PROJECT: https://hpro97.github.io/challenge_2_portfolio_project_harry_probert
+DEPLOYED: https://hpro97.github.io/Bootstrap-Portfolio/<br>
+GIT REPO: https://github.com/hpro97/Bootstrap-Portfolio<br>
+PREVIOUS PROJECT: https://hpro97.github.io/challenge_2_portfolio_project_harry_probert<br>
 
 ## Screenshot
 
