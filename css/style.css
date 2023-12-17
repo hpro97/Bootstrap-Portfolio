@@ -4,7 +4,8 @@
 
   }
   
-  * {
+  * {font-family: 'Courier New', Courier, monospace;
+    font-size: large;
 
   }
             
@@ -32,6 +33,18 @@
   .pageSection {
   
   }
+
+  a:hover {
+    background-color: rgb(236, 0, 185);
+  }
+
+  button {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  ul {
+    list-style: none;
+  }
   
   /*  nav */
   .navSec {
@@ -45,7 +58,7 @@
   /* hero banner */
   .heroSec {
     height: 20em;
-    width: 100%;
+    width: 100% !important ;
 
   }
 
@@ -55,7 +68,7 @@
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
-    width: 100%;
+    width: 100% !important;
     height: 100%;
 
   }
@@ -96,10 +109,13 @@
   }
   
   .containerBlock {
-    
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
   }
 
   .portfolioSec {
+    
 
   }
 
