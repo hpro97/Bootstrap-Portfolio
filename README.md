@@ -19,7 +19,7 @@ PREVIOUS PROJECT: https://hpro97.github.io/challenge_2_portfolio_project_harry_p
 
 ## Screenshot
 
-![screenshot of deployed page](/assets/images/screenshot.png "screenshot")
+![screenshot of deployed page](/images/screenshot.png "screenshot")
 
 ## Credits
 
