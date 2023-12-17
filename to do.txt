@@ -1,33 +1,12 @@
-a nav bar sec with				initial done (need style, push all to right, make text bigger)
-	nav menu with
-	links in nav to sections
 
-hero banner section				initial done (need style, fill whole width, gradient)
+deployed url in bootcamp page
 
-jumbotron sec with bio, name, pic		initial done (need styling, add profile pic to right instead of underneath, make media queries for block on small res
+previously deployed portfolio url in bootcamp page
 
-work sec with 					initial done (need styling, make higher, add space, make pics background)
-	grid with
-	pics on card with
-	link to project with
-	descripiton of each project
+giturl in bootcamp page
 
-skills section with				initial done (need style, make text bigger)
-	skills imma learn from bootcamp
-
-contact + footer sec with			initial done (need style, justify content on 1 line)
-	links with email, linkedin, git
-
-
-
-links all have hover effect
-buttons should display box shadow
-make all buttons black/grey?
-change all font
-
-deployed
-loads
-giturl
 unique name
+
 readme with description, screenshot, link to deployed
+
 url of previously deployed portfolio
